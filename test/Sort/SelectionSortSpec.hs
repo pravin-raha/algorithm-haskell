@@ -1,4 +1,4 @@
-module SelectionSortSpec where
+module Sort.SelectionSortSpec where
 
 import           Test.Hspec
 import           Sort.SelectionSort (sort)

@@ -1,2 +1,2 @@
-module InsertionSort where
+module Sort.InsertionSort where
 
